@@ -11,6 +11,6 @@ public class Test {
 		System.out.println(MyStringUtils.isNullOrEmpty("hello world"));
 		System.out.println(Strings.repeat("hello world", 10));
 		
-		/* j'ajoute pour tester*/
+		/* j'ajoute pour tester un deux*/
 	}
 }
